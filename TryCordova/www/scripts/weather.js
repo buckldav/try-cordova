@@ -1,4 +1,4 @@
-﻿var OpenWeatherAppKey = "5624d8c8fd7b5cdace77b96333b4be9d";
+﻿var OpenWeatherAppKey = "Insert Key";
 
 function getWeatherWithZipCode() {
     var zipcode = $('#zip-code-input').val();
